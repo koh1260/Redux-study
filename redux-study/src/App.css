@@ -1,0 +1,10 @@
+#container{
+  display: flex;
+  border: 5px red solid;
+  margin: 10px;
+}
+ #container div{
+  border: 5px red solid;
+  margin: 10px;
+  flex-grow: 1;
+}
